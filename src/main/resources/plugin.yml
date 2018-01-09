@@ -1,0 +1,5 @@
+name: TerraFirma
+main: net.frozenorb.terrafirma.TerraFirma
+version: 1.0
+author: Kerem
+depend: [qLib]
